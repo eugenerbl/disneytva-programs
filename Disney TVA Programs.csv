@@ -1,95 +1,95 @@
-number,title,seasons,episodes,premiereDate,finaleDate,DC,Synd,ABC,CBS/UPN,Toon,XD,Junior,D+
-1,The Wuzzles,1,13,1985-09-14,1985-12-07,0,0,0,1,0,0,0,0
-2,Adventures of the Gummi Bears,6,95,1985-09-14,1991-02-22,0,1,1,0,0,0,0,0
-3,DuckTales (1987),4,101,1987-09-18,1990-11-28,0,1,0,0,0,0,0,0
-4,The New Adventures of Winnie the Pooh,4,82,1988-01-17,1991-10-26,1,0,1,0,0,0,0,0
-5,Chip 'n Dale: Rescue Rangers,3,65,1989-03-04,1990-11-19,1,1,0,0,0,0,0,0
-6,TaleSpin,1,65,1990-09-07,1991-08-08,1,1,0,0,0,0,0,0
-7,Darkwing Duck,3,91,1991-09-06,1992-12-05,0,1,1,0,0,0,0,0
-8,Goof Troop,2,78,1992-09-05,1992-12-05,0,1,1,0,0,0,0,0
-9,The Little Mermaid,3,31,1992-09-11,1994-11-26,0,0,0,1,0,0,0,0
-10,Raw Toonage,1,12,1992-09-19,1992-12-05,0,0,0,1,0,0,0,0
-11,Bonkers,4,65,1993-02-28,1994-02-23,0,1,0,0,0,0,0,0
-12,Marsupilami,1,13,1993-09-18,1993-12-11,0,0,0,1,0,0,0,0
-13,Aladdin,3,86,1994-02-06,1995-11-23,1,1,0,1,0,0,0,0
-14,Gargoyles,3,78,1994-10-24,1997-02-15,0,1,1,0,0,0,0,0
-15,The Shnookums and Meat Funny Cartoon Show,1,39,1995-01-02,1995-03-27,0,1,0,0,0,0,0,0
-16,Timon and Pumbaa,3,170,1995-09-08,1999-09-24,0,1,0,1,1,0,0,0
-17,Quack Pack,1,39,1996-09-03,1996-11-28,0,1,0,0,0,0,0,0
-18,Mighty Ducks: The Animated Series,1,26,1996-09-06,1997-01-17,0,1,1,0,0,0,0,0
-19,Disney's Doug,3,65,1996-09-07,1999-06-26,0,0,1,0,0,0,0,0
-20,Jungle Cubs,2,34,1996-10-05,1998-01-10,0,0,1,0,0,0,0,0
-21,Nightmare Ned,1,25,1997-04-19,1997-07-05,0,0,1,0,0,0,0,0
-22,101 Dalmatians: The Series,2,105,1997-09-01,1998-03-04,0,1,1,0,0,0,0,0
-23,Recess,6,127,1997-09-13,2001-11-05,0,0,1,1,0,0,0,0
-24,Pepper Ann,5,65,1997-09-13,2000-11-18,0,0,1,1,0,0,0,0
-25,PB&J Otter,3,128,1998-03-15,2000-10-15,1,0,0,0,0,0,0,0
-26,Hercules: The Animated Series,2,65,1998-08-31,1999-03-01,0,1,1,0,0,0,0,0
-27,Mickey Mouse Works,2,96,1999-05-01,2000-12-16,0,0,1,0,0,0,0,0
-28,The Weekenders,4,73,2000-02-26,2004-02-29,0,0,1,1,1,0,0,0
-29,Clerks: The Animated Series,1,6,2000-05-31,2002-12-14,0,0,1,0,0,0,0,0
-30,Teacher's Pet,2,47,2000-09-09,2002-05-10,0,0,1,0,1,0,0,0
-31,Buzz Lightyear of Star Command,1,62,2000-10-02,2001-01-13,0,0,1,1,0,0,0,0
-32,House of Mouse,3,52,2001-01-13,2003-10-24,0,0,1,0,1,0,0,0
-33,Lloyd in Space,4,39,2001-02-03,2004-02-27,0,0,1,0,1,0,0,0
-34,The Legend of Tarzan,2,39,2001-09-03,2003-02-05,0,0,0,1,0,0,0,0
-35,Teamo Supremo,3,76,2002-01-19,2004-08-17,0,0,1,0,1,0,0,0
-36,Kim Possible,4,92,2002-06-07,2007-09-07,1,0,0,0,0,0,0,0
-37,Fillmore!,2,26,2002-09-14,2004-01-30,0,0,1,0,1,0,0,0
-38,Lilo and Stitch: The Series,2,67,2003-09-20,2006-07-29,1,0,1,0,0,0,0,0
-39,Dave the Barbarian,1,42,2004-01-23,2005-01-22,1,0,0,0,0,0,0,0
-40,Brandy & Mr. Whiskers,2,77,2004-08-21,2006-08-25,1,0,0,0,0,0,0,0
-41,Super Robot Monkey Team Hyperforce Go!,4,52,2004-09-18,2006-12-16,0,0,0,0,1,0,0,0
-42,American Dragon: Jake Long,2,55,2005-01-21,2007-09-01,1,0,0,0,0,0,0,0
-43,The Buzz on Maggie,1,42,2005-06-17,2006-05-27,1,0,0,0,0,0,0,0
-44,Get Ed,1,26,2005-09-19,2006-04-24,0,0,0,0,1,0,0,0
-45,The Emperor's New School,2,52,2006-01-27,2008-11-20,1,0,0,0,0,0,0,0
-46,Mickey Mouse Clubhouse,4,125,2006-05-05,2016-11-06,0,0,0,0,0,0,1,0
-47,The Replacements,2,52,2006-07-28,2009-03-30,1,0,0,0,0,0,0,0
-48,Shorty McShorts' Shorts,2,13,2006-07-28,2007-05-25,0,0,0,0,0,1,0,0
-49,Yin Yang Yo!,2,104,2006-08-26,2009-04-18,0,0,0,0,1,1,0,0
-50,My Friends Tigger & Pooh,3,63,2007-05-12,2010-10-09,1,0,0,0,0,0,0,0
-51,Phineas and Ferb,4,222,2007-08-17,2015-06-12,1,0,0,0,0,0,0,0
-52,Special Agent Oso,2,60,2009-04-04,2012-05-17,0,0,0,0,0,0,1,0
-53,Kick Buttowski: Suburban Daredevil,2,54,2010-02-13,2012-12-02,0,0,0,0,0,1,0,0
-54,Fish Hooks,3,110,2010-09-03,2014-04-04,1,0,0,0,0,0,0,0
-55,Take Two with Phineas and Ferb,1,20,2010-12-03,2011-11-25,1,0,0,0,0,0,0,0
-56,Jake and the Never Land Pirates,4,215,2011-02-14,2016-11-06,1,0,0,0,0,0,0,0
-57,Motorcity,1,20,2012-04-30,2013-01-07,0,0,0,0,0,1,0,0
-58,Tron: Uprising,1,19,2012-05-18,2013-01-28,0,0,0,0,0,1,0,0
-59,Gravity Falls,2,40,2012-06-15,2016-02-15,1,0,0,0,0,1,0,0
-60,Randy Cunningham: 9th Grade Ninja,2,100,2012-08-13,2015-07-27,0,0,0,0,0,1,0,0
-61,Sofia the First,4,109,2013-01-11,2018-09-08,0,0,0,0,0,0,1,0
-62,Mickey Mouse,5,96,2013-06-28,2019-07-20,1,0,0,0,0,0,0,0
-63,Wander Over Yonder,2,79,2013-08-16,2016-06-27,1,0,0,0,0,1,0,0
-64,The 7D,2,87,2014-07-07,2016-11-05,0,0,0,0,0,1,0,0
-65,Penn Zero: Part-Time Hero,2,61,2014-12-05,2017-07-28,0,0,0,0,0,1,0,0
-66,Star vs. the Forces of Evil,4,140,2015-01-18,2019-05-19,1,0,0,0,0,1,0,0
-67,Two More Eggs,3,90,2015-08-10,2017-09-04,0,0,0,0,0,1,0,0
-68,Pickle and Peanut,2,82,2015-09-07,2018-01-20,0,0,0,0,0,1,0,0
-69,Descendants: Wicked World,3,36,2015-09-18,2017-03-03,1,0,0,0,0,0,0,0
-70,The Lion Guard,3,74,2016-01-15,2019-11-03,0,0,0,0,0,0,1,0
-71,Elena of Avalor,3,77,2016-07-22,2020-08-23,1,0,0,0,0,0,1,0
-72,Future-Worm!,1,21,2016-08-01,2018-05-19,0,0,0,0,0,1,0,0
-73,Milo Murphy's Law,2,73,2016-10-03,2019-05-18,1,0,0,0,0,1,0,0
-74,Mickey Mouse Mixed-Up Adventures,3,174,2017-01-15,2021-10-01,0,0,0,0,0,0,1,0
-75,Rapunzel's Tangled Adventure,3,60,2017-03-24,2020-03-01,1,0,0,0,0,0,0,0
-76,Billy Dilley's Super-Duper Subterranean Summer,1,25,2017-06-03,2017-06-15,0,0,0,0,0,1,0,0
-77,DuckTales (2017),3,69,2017-08-12,2021-03-15,1,0,0,0,0,1,0,0
-78,Big Hero 6: The Series,3,66,2017-11-20,2021-02-15,1,0,0,0,0,1,0,0
-79,Big City Greens,3,80,2018-06-18,2024-12-31,1,0,0,0,0,0,0,0
-80,Fancy Nancy,3,63,2018-07-13,2022-02-18,0,0,0,0,0,0,1,0
-81,Amphibia,3,106,2019-06-17,2022-05-14,1,0,0,0,0,0,0,0
-82,The Owl House,3,43,2020-01-10,2023-04-08,1,0,0,0,0,0,0,0
-83,The Wonderful World of Mickey Mouse,1,24,2020-11-18,2024-12-31,0,0,0,0,0,0,0,1
-84,Monsters at Work,1,10,2021-07-07,2024-12-31,0,0,0,0,0,0,0,1
-85,Mickey Mouse Funhouse,2,72,2021-07-16,2024-12-31,0,0,0,0,0,0,1,0
-86,The Ghost and Molly McGee,2,49,2021-10-01,2024-12-31,1,0,0,0,0,0,0,0
-87,"Rise Up, Sing Out",1,8,2022-02-02,2024-12-31,0,0,0,0,0,0,1,0
-88,Alice's Wonderland Bakery,1,49,2022-02-09,2024-12-31,0,0,0,0,0,0,1,0
-89,The Proud Family: Louder and Prouder,2,20,2022-02-23,2024-12-31,0,0,0,0,0,0,0,1
-90,Chibiverse,1,4,2022-07-30,2024-12-31,1,0,0,0,0,0,0,0
-91,Hamster & Gretel,1,38,2022-08-12,2024-12-31,1,0,0,0,0,0,0,0
-92,Firebuds,1,38,2022-09-21,2024-12-31,0,0,0,0,0,0,1,0
-93,Moon Girl and Devil Dinosaur,1,12,2023-02-10,2024-12-31,1,0,0,0,0,0,0,0
-94,Kiff,1,24,2023-03-10,2024-12-31,1,0,0,0,0,0,0,0
+number,title,creator,seasons,episodes,primaryTime,premiereDate,finaleDate,DC,Synd,ABC,CBS/UPN,Toon,XD,Junior,D+
+1,The Wuzzles,Carson Van Osten,1,13,5,1985-09-14,1985-12-07,0,0,0,1,0,0,0,0
+2,Adventures of the Gummi Bears,"Michael Eisner, Jymn Magon",6,95,11,1985-09-14,1991-02-22,0,1,1,0,0,0,0,0
+3,DuckTales (1987),Jymn Magon,4,101,22,1987-09-18,1990-11-28,0,1,0,0,0,0,0,0
+4,The New Adventures of Winnie the Pooh,Karl Geurs,4,82,11,1988-01-17,1991-10-26,1,0,1,0,0,0,0,0
+5,Chip 'n Dale: Rescue Rangers,"Tad Stones, Alan Zaslove",3,65,22,1989-03-04,1990-11-19,1,1,0,0,0,0,0,0
+6,TaleSpin,"Jymn Magon, Mark Zaslove",1,65,22,1990-09-07,1991-08-08,1,1,0,0,0,0,0,0
+7,Darkwing Duck,Tad Stones,3,91,22,1991-09-06,1992-12-05,0,1,1,0,0,0,0,0
+8,Goof Troop,"Robert Taylor, Michael Peraza Jr.",2,78,22,1992-09-05,1992-12-05,0,1,1,0,0,0,0,0
+9,The Little Mermaid,Jamie Mitchell,3,31,22,1992-09-11,1994-11-26,0,0,0,1,0,0,0,0
+10,Raw Toonage,"Larry Latham, Ed Wexler",1,39,5,1992-09-19,1992-12-05,0,0,0,1,0,0,0,0
+11,Bonkers,"Larry Latham, Duane Capizzi, Robert Taylor",4,65,22,1993-02-28,1994-02-23,0,1,0,0,0,0,0,0
+12,Marsupilami,"Andre Franquin, Ed Wexler",1,39,5,1993-09-18,1993-12-11,0,0,0,1,0,0,0,0
+13,Aladdin,"Tad Stones, Alan Zaslove",3,86,22,1994-02-06,1995-11-23,1,1,0,1,0,0,0,0
+14,Gargoyles,"Greg Weisman, Michael Reaves",3,78,22,1994-10-24,1997-02-15,0,1,1,0,0,0,0,0
+15,The Shnookums and Meat Funny Cartoon Show,Bill Kopp,1,39,5,1995-01-02,1995-03-27,0,1,0,0,0,0,0,0
+16,Timon and Pumbaa,"Bobs Gannaway, Tony Craig",3,170,11,1995-09-08,1999-09-24,0,1,0,1,1,0,0,0
+17,Quack Pack,"Toby Shelton, Kevin Hopps",1,39,22,1996-09-03,1996-11-28,0,1,0,0,0,0,0,0
+18,Mighty Ducks: The Animated Series,"Marty Isenberg, Robert N. Skir, David Wise",1,26,22,1996-09-06,1997-01-17,0,1,1,0,0,0,0,0
+19,Disney's Doug,Jim Jinkins,3,65,22,1996-09-07,1999-06-26,0,0,1,0,0,0,0,0
+20,Jungle Cubs,Mark S. Bernthal,2,34,11,1996-10-05,1998-01-10,0,0,1,0,0,0,0,0
+21,Nightmare Ned,"Terry Shakespeare, Sue Shakespeare, David Molina",1,25,11,1997-04-19,1997-07-05,0,0,1,0,0,0,0,0
+22,101 Dalmatians: The Series,"Jim Jinkins, David Campbell",2,105,11,1997-09-01,1998-03-04,0,1,1,0,0,0,0,0
+23,Recess,"Paul Germain, Joe Ansolabehere",6,127,11,1997-09-13,2001-11-05,0,0,1,1,0,0,0,0
+24,Pepper Ann,Sue Rose,5,113,11,1997-09-13,2000-11-18,0,0,1,1,0,0,0,0
+25,PB&J Otter,Jim Jinkins,3,128,11,1998-03-15,2000-10-15,1,0,0,0,0,0,0,0
+26,Hercules: The Animated Series,Tad Stones,2,65,22,1998-08-31,1999-03-01,0,1,1,0,0,0,0,0
+27,Mickey Mouse Works,Bobs Gannaway,2,96,5,1999-05-01,2000-12-16,0,0,1,0,0,0,0,0
+28,The Weekenders,Doug Langdale,4,73,11,2000-02-26,2004-02-29,0,0,1,1,1,0,0,0
+29,Clerks: The Animated Series,"David Mandel, Scott Mosier, Kevin Smith",1,6,22,2000-05-31,2002-12-14,0,0,1,0,0,0,0,0
+30,Teacher's Pet,"Gary Baseman, Bill Steinkellner, Cheri Steinkellner",2,47,22,2000-09-09,2002-05-10,0,0,1,0,1,0,0,0
+31,Buzz Lightyear of Star Command,"Mark McCorkle, Bob Schooley",1,62,22,2000-10-02,2001-01-13,0,0,1,1,0,0,0,0
+32,House of Mouse,"Bobs Gannaway, Tony Craig",3,52,22,2001-01-13,2003-10-24,0,0,1,0,1,0,0,0
+33,Lloyd in Space,"Paul Germain, Joe Ansolabehere",4,39,22,2001-02-03,2004-02-27,0,0,1,0,1,0,0,0
+34,The Legend of Tarzan,"Bob Roth, Bill Motz",2,39,22,2001-09-03,2003-02-05,0,0,0,1,0,0,0,0
+35,Teamo Supremo,Phil Walsh,3,76,11,2002-01-19,2004-08-17,0,0,1,0,1,0,0,0
+36,Kim Possible,"Mark McCorkle, Bob Schooley",4,92,22,2002-06-07,2007-09-07,1,0,0,0,0,0,0,0
+37,Fillmore!,Scott M. Gimple,2,26,22,2002-09-14,2004-01-30,0,0,1,0,1,0,0,0
+38,Lilo and Stitch: The Series,"Bobs Gannaway, Jess Winfield",2,67,22,2003-09-20,2006-07-29,1,0,1,0,0,0,0,0
+39,Dave the Barbarian,Doug Langdale,1,42,11,2004-01-23,2005-01-22,1,0,0,0,0,0,0,0
+40,Brandy & Mr. Whiskers,Russell Marcus,2,77,11,2004-08-21,2006-08-25,1,0,0,0,0,0,0,0
+41,Super Robot Monkey Team Hyperforce Go!,Ciro Nieli,4,52,22,2004-09-18,2006-12-16,0,0,0,0,1,0,0,0
+42,American Dragon: Jake Long,"Jeff Goode, Eddie Guzelian, Matt Negrete",2,55,22,2005-01-21,2007-09-01,1,0,0,0,0,0,0,0
+43,The Buzz on Maggie,Dave Polsky,1,42,11,2005-06-17,2006-05-27,1,0,0,0,0,0,0,0
+44,Get Ed,Andy Knight,1,26,22,2005-09-19,2006-04-24,0,0,0,0,1,0,0,0
+45,The Emperor's New School,Mark Dindal,2,52,22,2006-01-27,2008-11-20,1,0,0,0,0,0,0,0
+46,Mickey Mouse Clubhouse,Bobs Gannaway,4,125,22,2006-05-05,2016-11-06,0,0,0,0,0,0,1,0
+47,The Replacements,Dan Santat,2,52,11,2006-07-28,2009-03-30,1,0,0,0,0,0,0,0
+48,Shorty McShorts' Shorts,"Barry Blumberg, John Solomon",2,13,5,2006-07-28,2007-05-25,0,0,0,0,0,1,0,0
+49,Yin Yang Yo!,Bob Boyle,2,104,11,2006-08-26,2009-04-18,0,0,0,0,1,1,0,0
+50,My Friends Tigger & Pooh,Brian Hohlfield,3,63,11,2007-05-12,2010-10-09,1,0,0,0,0,0,0,0
+51,Phineas and Ferb,"Dan Povenmire, Jeff ""Swampy"" Marsh",4,222,11,2007-08-17,2015-06-12,1,0,0,0,0,0,0,0
+52,Special Agent Oso,Ford Riley,2,117,11,2009-04-04,2012-05-17,0,0,0,0,0,0,1,0
+53,Kick Buttowski: Suburban Daredevil,Sandro Corsaro,2,104,11,2010-02-13,2012-12-02,0,0,0,0,0,1,0,0
+54,Fish Hooks,Noah Z. Jones,3,110,11,2010-09-03,2014-04-04,1,0,0,0,0,0,0,0
+55,Take Two with Phineas and Ferb,"Dan Povenmire, Jeff ""Swampy"" Marsh",1,20,5,2010-12-03,2011-11-25,1,0,0,0,0,0,0,0
+56,Jake and the Never Land Pirates,Bobs Gannaway,4,215,11,2011-02-14,2016-11-06,1,0,0,0,0,0,0,0
+57,Motorcity,"Chris Prynoski, David Bickel",1,20,22,2012-04-30,2013-01-07,0,0,0,0,0,1,0,0
+58,Tron: Uprising,"Edward Kitsis, Adam Horowitz",1,19,22,2012-05-18,2013-01-28,0,0,0,0,0,1,0,0
+59,Gravity Falls,Alex Hirsch,2,40,22,2012-06-15,2016-02-15,1,0,0,0,0,1,0,0
+60,Randy Cunningham: 9th Grade Ninja,"Jed Elinoff, Scott Thomas",2,100,11,2012-08-13,2015-07-27,0,0,0,0,0,1,0,0
+61,Sofia the First,Craig Gerber,4,109,22,2013-01-11,2018-09-08,0,0,0,0,0,0,1,0
+62,Mickey Mouse,Paul Rudish,5,96,5,2013-06-28,2019-07-20,1,0,0,0,0,0,0,0
+63,Wander Over Yonder,Craig McCracken,2,79,11,2013-08-16,2016-06-27,1,0,0,0,0,1,0,0
+64,The 7D,"Tom Ruegger, Mr. Warburton, Noah Z. Jones",2,87,11,2014-07-07,2016-11-05,0,0,0,0,0,1,0,0
+65,Penn Zero: Part-Time Hero,"Jared Bush, Sam Levine",2,61,11,2014-12-05,2017-07-28,0,0,0,0,0,1,0,0
+66,Star vs. the Forces of Evil,Daron Nefcy,4,140,11,2015-01-18,2019-05-19,1,0,0,0,0,1,0,0
+67,Two More Eggs,The Brothers Chaps,3,90,5,2015-08-10,2017-09-04,0,0,0,0,0,1,0,0
+68,Pickle and Peanut,"Noah Z. Jones, Joel Trussell",2,82,11,2015-09-07,2018-01-20,0,0,0,0,0,1,0,0
+69,Descendants: Wicked World,"Aliki Theofilopoulos, Jennifer Magee-Cook",3,36,5,2015-09-18,2017-03-03,1,0,0,0,0,0,0,0
+70,The Lion Guard,Ford Riley,3,74,22,2016-01-15,2019-11-03,0,0,0,0,0,0,1,0
+71,Elena of Avalor,Craig Gerber,3,77,22,2016-07-22,2020-08-23,1,0,0,0,0,0,1,0
+72,Future-Worm!,Ryan Quincy,1,60,11,2016-08-01,2018-05-19,0,0,0,0,0,1,0,0
+73,Milo Murphy's Law,"Dan Povenmire, Jeff ""Swampy"" Marsh",2,73,11,2016-10-03,2019-05-18,1,0,0,0,0,1,0,0
+74,Mickey Mouse Mixed-Up Adventures,"Rob LaDuca, Mark Seidenberg",3,174,11,2017-01-15,2021-10-01,0,0,0,0,0,0,1,0
+75,Rapunzel's Tangled Adventure,"Shane Prigmore, Chris Sonnenburg",3,60,22,2017-03-24,2020-03-01,1,0,0,0,0,0,0,0
+76,Billy Dilley's Super-Duper Subterranean Summer,Aaron Springer,1,25,11,2017-06-03,2017-06-15,0,0,0,0,0,1,0,0
+77,DuckTales (2017),"Matt Youngberg, Francisco Angones",3,69,22,2017-08-12,2021-03-15,1,0,0,0,0,1,0,0
+78,Big Hero 6: The Series,"Mark McCorkle, Bob Schooley",3,66,22,2017-11-20,2021-02-15,1,0,0,0,0,1,0,0
+79,Big City Greens,The Houghton Brothers,3,80,11,2018-06-18,2024-12-31,1,0,0,0,0,0,0,0
+80,Fancy Nancy,"Anne Smith, Jamie Mitchell, Krista Tucker",3,123,11,2018-07-13,2022-02-18,0,0,0,0,0,0,1,0
+81,Amphibia,Matt Braly,3,106,11,2019-06-17,2022-05-14,1,0,0,0,0,0,0,0
+82,The Owl House,Dana Terrace,3,43,22,2020-01-10,2023-04-08,1,0,0,0,0,0,0,0
+83,The Wonderful World of Mickey Mouse,Paul Rudish,1,24,5,2020-11-18,2024-12-31,0,0,0,0,0,0,0,1
+84,Monsters at Work,Bobs Gannaway,1,10,22,2021-07-07,2024-12-31,0,0,0,0,0,0,0,1
+85,Mickey Mouse Funhouse,"Phil Weinstein, Thomas Hart",2,76,11,2021-07-16,2024-12-31,0,0,0,0,0,0,1,0
+86,The Ghost and Molly McGee,"Bill Motz, Bob Roth",2,54,11,2021-10-01,2024-12-31,1,0,0,0,0,0,0,0
+87,"Rise Up, Sing Out","Latoya Raveneau, Questlove",1,8,5,2022-02-02,2024-12-31,0,0,0,0,0,0,1,0
+88,Alice's Wonderland Bakery,Chelsea Beyl,1,49,11,2022-02-09,2024-12-31,0,0,0,0,0,0,1,0
+89,The Proud Family: Louder and Prouder,"Bruce W. Smith, Ralph Farquhar",2,20,22,2022-02-23,2024-12-31,0,0,0,0,0,0,0,1
+90,Chibiverse,Gino Guzzardo,1,4,22,2022-07-30,2024-12-31,1,0,0,0,0,0,0,0
+91,Hamster & Gretel,Dan Povenmire,1,38,11,2022-08-12,2024-12-31,1,0,0,0,0,0,0,0
+92,Firebuds,Craig Gerber,1,40,11,2022-09-21,2024-12-31,0,0,0,0,0,0,1,0
+93,Moon Girl and Devil Dinosaur,"Steve Loter, Jeffrey M. Howard, Kate Kondell",1,16,22,2023-02-10,2024-12-31,1,0,0,0,0,0,0,0
+94,Kiff,"Lucy Heavens, Nic Smal",1,30,11,2023-03-10,2024-12-31,1,0,0,0,0,0,0,0
