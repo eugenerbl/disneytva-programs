@@ -1,6 +1,6 @@
 # DisneyTVA Programs
 A summary of all programs aired by Disney Television Animation.<br><br>
-*Last Updated: May 23, 2023*
+*Last Updated: June 18, 2023*
 
 ## About Disney TVA
 **Disney Television Animation** (est. December 5, 1984) is an animation studio that serves as the TV animation production unit of Disney Branded Television, a division of Walt Disney Television. The division is responsible for creating, developing and producing animated television series, films, specials and short films.
@@ -9,7 +9,7 @@ The company has produced shows for several major networks such as ABC and CBS. T
 
 ## Variables
 
-**94** programs that have been or are currently broadcast on Disney TVA programming. This dataset will be updated occasionally as new shows make their premieres.
+**95** programs that have been or are currently broadcast on Disney TVA programming. This dataset will be updated occasionally as new shows make their premieres.
 
 **16** variables about each show.
 
