@@ -1,6 +1,6 @@
 # DisneyTVA Programs
 A summary of all programs aired by Disney Television Animation.<br><br>
-*Last Updated: December 10, 2024*
+*Last Updated: May 14, 2025*
 
 ## About Disney TVA
 **Disney Television Animation** (est. December 5, 1984) is an animation studio that serves as the TV animation production unit of Disney Branded Television, a division of Walt Disney Television. The division is responsible for creating, developing and producing animated television series, films, specials and short films.
@@ -9,7 +9,7 @@ The company has produced shows for several major networks such as ABC and CBS. T
 
 ## Variables
 
-**97** programs that have been or are currently broadcast on Disney TVA programming. This dataset will be updated occasionally as new shows make their premieres.
+**101** programs that have been or are currently broadcast by Disney TVA. This dataset will be updated occasionally as new shows make their premieres.
 
 **16** variables about each show.
 
@@ -34,11 +34,11 @@ The company has produced shows for several major networks such as ABC and CBS. T
 
 #### Notes
 - primaryTime: Describes the length (in minutes) of a *majority* of the show's episodes. Many shows have mostly 11- or 22-minute episodes.
-  - Shows with a value of **5** have episodes much shorter than 11 minutes. These are usually shows consisting of primarily shorts (5 minutes or less).
+  - Shows with a value of **5** have episodes much shorter than 11 minutes. These are usually shows whose episodes are shorts (7 minutes or less).
 
 - The last 8 variables (DC to D+) refer to 7 different TV networks and 1 streaming service. For a given show, the value of a network variable is **1** if the channel *regularly aired new episodes* at any point during the show's run, and **0** otherwise. Reruns are not included.
   
-- Episode count does not include feature films or additional shorts, unless the program consists of primarily shorts.
+- Episode count does not include feature films, television specials, or additional shorts (unless the program consists primarily of shorts).
 
 - *Doug* aired a total of 166 episodes for seven seasons. The first four seasons aired on Nickelodeon, and the last three on ABC. This database only records the last three seasons (65 episodes) that aired during the show's run under Disney TVA.
 
